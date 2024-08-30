@@ -24,6 +24,7 @@ Além disso, foi utilizado muito do Flex-box para a estilização do site.
 
 ## 🔗 Você pode acessar meu projeto clicando no link abaixo:
 
+https://joaomonferrari.github.io/alura-books/
 
 ## 🔧 Feito por:
 
