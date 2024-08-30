@@ -1,15 +1,30 @@
+# Olá, bem vindo ao meu projeto Alura Books, onde aplico Mobile First para o desenvolvimento dapágina de uma livraria virtual
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+![image](https://github.com/user-attachments/assets/b32b1784-d24b-4913-be7a-a7bfdcb98202)
 
-<hr>
+## :hammer: Ferramentas utilizadas:
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+* HTML;
+  
+* CSS;
+  
+* Mobile First.
 
-## Tecnologias
-* HTML
-* CSS
-* SwiperJS
+## ❗Descrição do projeto:
 
-## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+O projeto desenvolvido é de uma livraria virtual que utiliza da técnica Mobile First, em que inicialmente todo o layout e funcionalidades da página são desenvolvidos para aparelhos mobile (telefones, tablets, ...), para somente depois se tornar responsivo para desktops.
+
+Além disso, foi utilizado muito do Flex-box para a estilização do site.
+
+## ✔️ Funcionalidades:
+
+- `1)`: Utilizar técnia mobile-first;
+- `2)`: Aplicar o flex-box para a estilização e configuração das páginas e funcionalidades;
+- `3)`: Gerar um site responsivo e funcional para o cliente.
+
+## 🔗 Você pode acessar meu projeto clicando no link abaixo:
+
+
+## 🔧 Feito por:
+
+João Monferrari
