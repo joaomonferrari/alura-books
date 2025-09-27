@@ -28,4 +28,4 @@ https://joaomonferrari.github.io/alura-books/
 
 ## 🔧 Feito por:
 
-João Monferrari
+[João Monferrari](https://www.linkedin.com/in/jo%C3%A3o-monferrari-b278b2223/)
